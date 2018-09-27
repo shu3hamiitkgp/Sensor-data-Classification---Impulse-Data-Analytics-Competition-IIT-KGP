@@ -1,0 +1,1 @@
+# Sensor-data-Classification---Impulse-Data-Analytics-Competition-IIT-KGP
